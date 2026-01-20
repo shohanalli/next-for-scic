@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "Comfortable over-ear headphones with noise isolation.",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/headphones/600/400",
+    "category": "Audio"
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "description": "Track fitness, sleep and notifications.",
+    "price": 79.5,
+    "image": "https://picsum.photos/seed/watch/600/400",
+    "category": "Wearables"
+  }
+]
